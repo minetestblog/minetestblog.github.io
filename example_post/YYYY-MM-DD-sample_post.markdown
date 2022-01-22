@@ -23,17 +23,17 @@ A short overview of today's post
 ------------------------------------------------
 What has been happening in engine development?
 
-## Games News <a name="games"></a>
+## Game News <a name="games"></a>
 ------------------------------------------------
 What nwe games have been released and what new features have been added to games for Minetest?
 
-## Mods News <a name="mods"></a>
+## Mod News <a name="mods"></a>
 ------------------------------------------------
 New mods and major Mod development updates
 
 ## Art and Builds <a name="art"></a>
 ------------------------------------------------
-Amazing builds
+Amazing builds, Minetest-related art
 
 ## Server Spotlight <a name="s-spotlight"></a>
 ------------------------------------------------
