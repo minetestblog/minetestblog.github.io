@@ -15,7 +15,7 @@ categories: jekyll update
 *  [In Other News](#o-news)
 
 
-### Briefing <a name="overview"></a>
+## Briefing <a name="overview"></a>
 ------------------------------------------------
 A short overview of today's post
 
