@@ -5,13 +5,13 @@ date:   2022-01-22 14:39:05 -0500
 categories: jekyll update
 ---
 # Table of contents
-  [Briefing](#overview)
-  [Engine](#engine)
-  [Games](#games)
-  [Mods](#mods)
-  [Art/Builds](#art)
-  [Server Spotlight](#s-spotlight)
-  [Server News](#s-news)
+  *[Briefing](#overview)
+  *[Engine](#engine)
+  *[Games](#games)
+  *[Mods](#mods)
+  *[Art/Builds](#art)
+  *[Server Spotlight](#s-spotlight)
+  *[Server News](#s-news)
 
 
 ### Briefing <a name="overview"></a>
