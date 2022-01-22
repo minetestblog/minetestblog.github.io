@@ -32,5 +32,5 @@ The second paragraph text
 
 ## Server News <a name="s-news"></a>
 
-<iframe src="https://forum.minetest.net/viewtopic.php?f=3&t=27713#page-footer" style="width: 500px; height: 130px; border: 0px"></iframe>
+<iframe src="https://forum.minetest.net/viewtopic.php?f=3&t=27713#page-footer" style="width: 100%; height: 400px; border: 0px"></iframe>
 
