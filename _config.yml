@@ -26,8 +26,8 @@ domain: my-site.github.io       # if you want to force HTTPS, specify the domain
 url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /minetestblog.github.io/      # place folder name if the site is served in a subfolder
 
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  minetest
 
 # Build settings
 theme: slate
