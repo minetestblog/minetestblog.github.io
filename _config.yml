@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A Periodic development blog for minetest. See what's new in minetest!
 domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /minetestblog.github.io/blog      # place folder name if the site is served in a subfolder
+baseurl: /minetestblog.github.io/      # place folder name if the site is served in a subfolder
 
 twitter_username: jekyllrb
 github_username:  jekyll
