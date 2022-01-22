@@ -14,14 +14,6 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-```lua
---test of lua code
-for _,player in pairs(minetest.get_connected_players) do
-  return
-end
-```
-
-
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
