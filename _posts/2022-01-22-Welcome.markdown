@@ -5,7 +5,7 @@ tags:
   - Blog Status
 description: >
   A new way to share your work.
-hero: /assests/img/default_hero.img
+hero: "/assets/img/default_hero.img"
 overlay: grey
 published: true
 ---
