@@ -10,24 +10,26 @@ categories: jekyll update
   [Games](#games)
   [Mods](#mods)
   [Art/Builds](#art)
-  [Server Spotlight](#paragraph2)
-  [Server News](#paragraph2)
+  [Server Spotlight](#s-spotlight)
+  [Server News](#s-news)
 
 
-## Beiefing <a name="overview"></a>
+### Briefing <a name="overview"></a>
 Some introduction text, formatted in heading 2 style
 
-## Some paragraph <a name="paragraph1"></a>
+## Engine News <a name="engine"></a>
 The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
+## Games News <a name="games"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-## Another paragraph <a name="paragraph2"></a>
+## Mods News <a name="mods"></a>
 The second paragraph text
 
-## Continue the Discussion:
-<iframe
-  src="https://forum.minetest.net/"
-  style="width:100%; height:300px;"
-></iframe>
+## Art and Builds <a name="art"></a>
+
+## Server Spotlight <a name="s-spotlight"></a>
+
+## Server News <a name="s-news"></a>
+
+<iframe src="https://forum.minetest.net/" style="width: 500px; height: 130px; border: 0px"></iframe>
