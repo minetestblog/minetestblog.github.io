@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "Welcome to the new Minetest Blog"
-date:   2022-01-22 14:39:05 -0500
-categories: Blog
+title: Welcome to the new Minetest Blog
+tags:
+  - Blog Status
+description: >
+  A new way to share your work.
+hero: /assests/img/default_hero.img
+overlay: grey
+published: true
 ---
 # Table of contents
 *  [Briefing](#overview)
