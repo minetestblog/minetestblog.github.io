@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the new Minetest Blog"
 date:   2022-01-22 14:39:05 -0500
-categories: jekyll update
+categories: Blog
 ---
 # Table of contents
 *  [Briefing](#overview)
