@@ -6,7 +6,7 @@ tags:
 description: >
   A new way to share your work.
 hero: /assets/img/default_hero.png
-overlay: grey
+overlay: LightGrey
 published: true
 ---
 # Table of contents
