@@ -15,46 +15,64 @@
       <ul>
 
         <li>
+          <a href="https://minetest.net/" target="_blank" class="smaller">
+            <img src="../../assets/img/minetesticon.svg" width="24" height="24">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://forum.minetest.net/" target="_blank" class="smaller">
+            <img src="../../assets/img/forum-svgrepo-com.svg" width="24" height="24">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://discord.gg/H8xsUFnneW" target="_blank" class="smaller">
+            <img src="../../assets/img/icons8-discord.svg" width="24" height="24">
+          </a>
+        </li>
+
+        <li>
             <a href="https://matrix.to/#/#minetest-general:tchncs.de" target="_blank" class="smaller">
               <img src="../../assets/img/icons8-matrix.svg" width="24" height="24">
             </a>
         </li>
 
-        {% if site.author.stackoverflow %}
         <li>
-            <a href="https://stackoverflow.com/{{ site.author.stackoverflow }}" target="_blank" class="smaller">
-              <span class="icon-stackoverflow"></span>
+          <a href="https://github.com/minetest/" target="_blank" class="smaller">
+            <img src="../../assets/img/icons8-github.svg" width="24" height="24">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://gitlab.com/minetest" target="_blank" class="smaller">
+            <img src="../../assets/img/icons8-gitlab.svg" width="24" height="24">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://gitlab.com/minetest" target="_blank" class="smaller">
+            <img src="../../assets/img/icons8-gitlab.svg" width="24" height="24">
+          </a>
+        </li>
+
+        {% if site.author.rss == true %}
+        <li>
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank"> 
+              <img src="../../assets/img/rss-svgrepo-com.svg" width="24" height="24">
             </a>
         </li>
         {% endif %}
-        {% if site.author.twitter %}
-        <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" class="smaller">
-              <span class="icon-twitter"></span>
-            </a>
-        </li>
-        {% endif %}
-        {% if site.author.github %}
-        <li>
-            <a href="https://github.com/{{ site.author.github }}" target="_blank" class="smaller">
-              <span class="icon-github"></span>
-            </a>
-        </li>
-        {% endif %}
+
         {% if site.author.mail %}
         <li>
             <a href="mailto:{{ site.author.mail }}" target="_blank">
-              <span class="icon-mail_outline"></span>
+              <img src="../../assets/img/mail-svgrepo-com.svg" width="24" height="24">
             </a>
         </li>
         {% endif %}
-        {% if site.author.rss == true %}
-        <li>
-            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" target="_blank">
-                <span class="icon-rss_feed"></span>
-            </a>
-        </li>
-        {% endif %}
+
+
         <li>
             <a href="#" onclick="switchTheme()" title="Switch theme?">
               <span class="icon-invert_colors" id="theme-switcher"></span>
