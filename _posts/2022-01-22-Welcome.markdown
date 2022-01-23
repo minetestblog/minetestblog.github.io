@@ -2,19 +2,14 @@
 layout: post
 title: Welcome to the new Minetest Blog
 tags:
-  - Blog Status
+  - blog
 description: >
   A new way to share your work.
 hero: /assets/img/default_hero.png
-overlay: 
+overlay: White
 published: true
 ---
-# Table of contents
-*  [Briefing](#overview)
 
-
-## Briefing <a name="overview"></a>
-------------------------------------------------
 
 
 A Blog is a great way for a project to share updates and generate excitement for new featues among its community. Thats why we are starting a new blog for minetest! This will be a great way to stay up-to-date with the diverse parts of the community. Blog content will be solicited from community members, for Engine development updates, Mods, Games, Builds, Art, Servers and anything minetest related. Yes, this will include shills for people's own projects, but they need an excuse such as a major update, great new feature, or event. See [Submitting](https://minetestblog.github.io/)
