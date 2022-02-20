@@ -35,6 +35,11 @@ The workflow is as follows:
 Thats it!
 
 
+If you want to help out, and be an editor, we need you! Email MisterE at `mistere123.coding@gmail.com` 
+
+
+
+
 
 # dactl - Our web theme
 dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
