@@ -26,7 +26,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Minetest
+  fullname                  : #Minetest
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : mistere123.coding@gmail.com # change to your e-mail address
   twitter                   : #twitter-user-name

@@ -31,7 +31,7 @@ Are you working with minetest? We'd love to know what's new with you! If you hav
 We ask that you follow these guidelines when making issues to submit post content:
 
 Required:
-* In the issue, format the issue title like: ` [content] <content description>` replace `<content description>` with a very brief title/description of your submission.
+* In the issue, format the issue title like: ` [content] content description`. Replace `content description` with a very brief title/description of your submission.
 * Include who is working on the project
 * Include a brief description. Keep it short. Links to further details are encouraged.
 * Do not post about extremely trivial updates. Actually share project status updates, news or something new. While shills are allowed/encouraged to a degree, you need a good excuse to shill your project. No "hey check out my project that I made last year". New projects, major updates, and events are all good "excuses".
