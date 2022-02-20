@@ -17,12 +17,14 @@ categories: jekyll update
 
 ## Briefing <a name="overview"></a>
 ------------------------------------------------
-
+Minetest 5.5 was released last month, with some significant improvements.
 
 A short overview of today's post
 
 ## Engine News <a name="engine"></a>
 ------------------------------------------------
+Minetest 5.5 is out! Some of the highlights for it are: 
+* New dynamic media functions; you can send dynamic media to individual clients, and it can be ephemeral media that is forgotten after disconnect.
 
 
 What has been happening in engine development?
