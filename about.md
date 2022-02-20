@@ -24,7 +24,7 @@ We post updates about once per month (subject to change) to let you know whats n
 
 ## Contributing posts
 
-Are you working with minetest? We'd love to know what's new with you! If you have gomething great to share, please make an issue on the [github issue tracker] (https://github.com/minetestblog/minetestblog.github.io/issues) or alternatively, on the mirrored [gitlab issue tracker] (https://gitlab.com/mistere123.coding/minetestblog.github.io/-/issues) if you cannot use github.
+Are you working with minetest? We'd love to know what's new with you! If you have gomething great to share, please make an issue on the github issue tracker (https://github.com/minetestblog/minetestblog.github.io/issues) or alternatively, on the mirrored gitlab issue tracker (https://gitlab.com/mistere123.coding/minetestblog.github.io/-/issues) if you cannot use github.
 
 ## Submission Guidelines
 
