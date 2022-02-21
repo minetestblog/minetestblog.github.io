@@ -23,17 +23,25 @@ A short overview of today's post
 
 ## Engine News <a name="engine"></a>
 ------------------------------------------------
-Minetest 5.5 is out! Some of the highlights for it are: 
-* New dynamic media functions; you can send dynamic media to individual clients, and it can be ephemeral media that is forgotten after disconnect.
+<sup>Written by MisterE and Rubenwardy</sup>
 
+Minetest 5.5.0 has been released! 
 
-What has been happening in engine development?
+While you may not see many visible changes, there's been a considerable amount of work under the hood to improve the rendering system. Minetest now uses its own fork of the Irrlicht rendering library, which will make further improvement easier. It's already allowed several longstanding bugs to be fixed. 
+
+Be warned: when you update to 5.5, it'll upgrade worlds to a new map encoding. This is irreversible, and will prevent you from running those worlds on older Minetest versions. If you aren't sure about the upgrade, then backup your map beforehand. 
+
+There were some interesting changes to the modding API. Various features have been de-hardcoded, allowing mods and games more control. For example, liquid features have been decoupled from liquid drawtypes (making it easier to make things like spiderwebs). Player fall damage is also changeable using armor groups; you can avoid red flashes from disabled fall damage. 
+
+Possibly the most interesting change to the API was an upgrade to the dynamic media API. Modders and game creators can now send media to individual clients, and label it as "ephemeral", meaning the client will forget it when they disconnect. Previously, dynamic media was sent to all clients, and became part of the media sent to clients on when they joined. With the new version, individualized media is finally possible! The applications are huge, especially regarding background music (BGM), which used to extend login times enormously. BGM can now be sent one track at a time after the player has joined. 
+
+As always, you can check out [the full changelog](https://dev.minetest.net/Changelog#5.4.0_.E2.86.92_5.5.0). Also see the [official announcement](https://forum.minetest.net/viewtopic.php?f=18&t=27754).
+
 
 ## Game News <a name="games"></a>
 ------------------------------------------------
 
 
-What new games have been released and what new features have been added to games for Minetest?
 
 ## Mod News <a name="mods"></a>
 ------------------------------------------------
