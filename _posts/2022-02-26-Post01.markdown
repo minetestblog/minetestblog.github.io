@@ -22,7 +22,6 @@ published: true
 Minetest 5.5 was released last month, with some significant improvements. Colour Hop has received some major updates. Creatura has joined minetest's collection of performant mob apis.
 
 ## Engine News <a name="engine"></a>
-<sup>Written by MisterE and Rubenwardy</sup>
 
 Minetest 5.5.0 has been released! 
 
