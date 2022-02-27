@@ -95,7 +95,7 @@ The Dwarves of the YourLand server show off stonework: "An Essay in Dwarf-Sculpt
 YourLand is preparing chat integration with discord. A nice side effect is a WIP [matterbridge mod](https://gitea.your-land.de/AliasAlreadyTaken/yl_matterbridge) that will allow bridging server chat to any of discord, irc, matrix, and much more, all at once.
 
 ## In Other News <a name="s-news"></a>
-This is the first post of our blog, y'all! We are actively looking for content submission for the next post, which will be in about a month, maybe sooner. Let us know what you are doing! If you are working on something great for Minetest in any of the following categories, please follow the easy instructions in the [About](https://minetestblog.github.io/about/) page to submit content or contact MisterE on discord, matrix, or the forums to submit content without the hassle of the issue tracker (please use the issue tracker if you can, though!)
+This is the first post of our blog, y'all! We are actively looking for content submission for the next post, which will be in about a month, maybe sooner. Let us know what you are doing! If you are working on something great for Minetest in any of the following categories, please follow the easy instructions in the [About](https://minetestblog.github.io/about/) page to submit content or contact [MisterE](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=26284) on discord, matrix, or the forums to submit content without the hassle of the issue tracker (please use the issue tracker if you can, though!)
 
 Categories:
 * Engine
