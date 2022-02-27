@@ -48,7 +48,8 @@ dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme wi
 ![dark theme](uploads/screenshot_desktop_dark.jpg)
 
 ## License
-All parts of dactl Jekyll theme are free to use and abuse under the open-source [MIT license](http://opensource.org/licenses/mit-license.php).
+The blog is released under the MIT license, and
+all parts of dactl Jekyll theme are free to use and abuse under the same [MIT license](http://opensource.org/licenses/mit-license.php).
 
 ## TO DO
 - [ ] Inline critical `.css` in `<head>` for faster load times

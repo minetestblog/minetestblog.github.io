@@ -7,7 +7,7 @@ url                          : "https://minetestblog.github.io" # the base hostn
 blog:
   title                      : Minetest Blog
   description                  : >
-                               A Periodic development blog for minetest. See what's new in minetest!
+                               A periodic development blog for minetest. See what's new in minetest!
 
 # Layout configuration
   logo_path                  : "assets/img/minetesticon.png" # path to logo file
