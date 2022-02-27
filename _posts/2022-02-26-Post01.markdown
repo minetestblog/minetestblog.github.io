@@ -91,8 +91,8 @@ Apercy is back at it, making more great vehicle mods. This time its cars. These 
 The Dwarves of the YourLand server show off stonework: "An Essay in Dwarf-Sculpture", built by debian44.
 
 temhotaokeaha has been making cool banners for games:
-![Blockbomber Banner](https://content.minetest.net/thumbnails/2/09924ef1ef.png?raw=true "Blockbomber Banner")
-![FarLands Reloaded Banner](https://content.minetest.net/thumbnails/2/cb60513e6c.png "FarLands Reloaded Banner")
+![Blockbomber Banner](https://content.minetest.net/uploads/09924ef1ef.png?raw=true "Blockbomber Banner")
+![FarLands Reloaded Banner](https://content.minetest.net/uploads/cb60513e6c.png "FarLands Reloaded Banner")
 
 
 ## Server News <a name="s-news"></a>
