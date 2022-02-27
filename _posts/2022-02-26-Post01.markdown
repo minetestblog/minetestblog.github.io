@@ -64,15 +64,15 @@ The game is still a work-in-progress, but it's getting closer to a complete game
 [Creatura](https://content.minetest.net/packages/ElCeejo/creatura/) makes creating a new mob relatively easy, while not cutting corners on features. You can take advantage of the Utility Stack system for smooth decision making, enchance behaviors using Theta* Pathfinding for lifelike paths, and even use the implemented boids algorithm for realistic flocks and swarms. 
 
 --------------------------------------
-[Loosewheel](https://content.minetest.net/users/loosewheel/) has been updating lw_components with more mesecons devices. The latest additions were digilines-controlled storage, and a security camera that can actually take "photos"- rough representations of the scene in front of it that remind you of early maze graphics. One of the most exciting recent additions is a force field generator:
+[Loosewheel](https://content.minetest.net/users/loosewheel/) has been updating [lw_components](https://content.minetest.net/packages/loosewheel/lwcomponents/) with more mesecons devices. The latest additions were digilines-controlled storage, and a security camera that can actually take "photos"- rough representations of the scene in front of it that remind you of early maze graphics. One of the most exciting recent additions is a force field generator:
 ![Force Field](https://i.ibb.co/sbRcL9v/force-field-demo.png?raw=true "Force Field")
 lw_components seems to be a real contender to other mesecons-compatible automation mods, and without the high entity-count, it may be a lower lag option. 
 
 --------------------------------------
-[OgelGames](https://content.minetest.net/users/OgelGames/) has released a mod that adds a wearable headlamp.
+[OgelGames](https://content.minetest.net/users/OgelGames/) has released a mod that adds a [wearable headlamp](https://content.minetest.net/packages/OgelGames/headlamp/).
 
 --------------------------------------
-[Zughy](https://content.minetest.net/users/Zughy/) is modding again! He recently updated Arena_lib, adding the ability to control the sky of minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
+[Zughy](https://content.minetest.net/users/Zughy/) is modding again! He recently updated [arena_lib](https://content.minetest.net/packages/?q=arena_lib), adding the ability to control the sky of minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
 ![Pink Sky](/assets/img/pink_sky.png?raw=true "Pink Sky")
 
 --------------------------------------
@@ -80,14 +80,15 @@ lw_components seems to be a real contender to other mesecons-compatible automati
 ![Apercy's Coupe](/assets/img/apercycars.png?raw=true "Apercy's Coupe")
 
 ## Art and Builds <a name="art"></a>
+temhotaokeaha has been making cool banners for games:
+![Blockbomber Banner](https://content.minetest.net/uploads/09924ef1ef.png?raw=true "Blockbomber Banner")
+![FarLands Reloaded Banner](https://content.minetest.net/uploads/cb60513e6c.png "FarLands Reloaded Banner")
+
+--------------------------------------
 ![An Essay in Dwarf-Sculpture](/assets/img/essay_in_dwarf.png?raw=true "An Essay in Dwarf-Sculpture")
 
 The Dwarves of the YourLand server show off stonework: "An Essay in Dwarf-Sculpture", built by debian44.
 
---------------------------------------
-temhotaokeaha has been making cool banners for games:
-![Blockbomber Banner](https://content.minetest.net/uploads/09924ef1ef.png?raw=true "Blockbomber Banner")
-![FarLands Reloaded Banner](https://content.minetest.net/uploads/cb60513e6c.png "FarLands Reloaded Banner")
 
 
 ## Server News <a name="s-news"></a>
