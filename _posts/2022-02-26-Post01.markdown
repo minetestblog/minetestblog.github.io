@@ -45,7 +45,7 @@ As usual, things are hidden and finding the new boss will take much exploration.
 The game is still a work-in-progress, but it's getting closer to a complete game.
 
 ![A New Place](/assets/img/a_new_place.png?raw=true "A New Place")
-![The Royal Blob](/assets/img/the_royal_blog.png?raw=true "The Royal Blob")
+![The Royal Blob](/assets/img/the_royal_blob.png?raw=true "The Royal Blob")
 
 Super Sam Adventures is a WIP jump'n'run game by BuckarooBanzai that seems to promise fun platforming for minetest. While it is obviously in early stages of development, it is already  playable, and even slightly engaging, with secret areas, moving platforms, and several levels.
 
