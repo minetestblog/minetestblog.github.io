@@ -3,7 +3,7 @@ layout: post
 title:  "This Month in Minetest 1"
 description: >
   A new minetest version and new content
-hero: /assets/img/pig.png
+hero: /_posts/img/pig.png
 overlay: White
 published: true
 ---
@@ -14,7 +14,6 @@ published: true
 *  [Games](#games)
 *  [Mods](#mods)
 *  [Art/Builds](#art)
-*  [Server Spotlight](#s-spotlight)
 *  [Server News](#s-news)
 *  [In Other News](#o-news)
 
@@ -43,8 +42,8 @@ As always, you can check out [the full changelog](https://dev.minetest.net/Chang
 ## Game News <a name="games"></a>
 ------------------------------------------------
 
-![A New Place](/img/a_new_place.png?raw=true "A New Place")
-![The Royal Blob](/img/the_royal_blog.png?raw=true "The Royal Blob")
+![A New Place](/_posts/img/a_new_place.png?raw=true "A New Place")
+![The Royal Blob](/_posts/img/the_royal_blog.png?raw=true "The Royal Blob")
 
 Talas has just released version 1.2 of Colour Hop! 
 This includes some fundamental changes to the game, giving each player colour an activated ability.
@@ -63,7 +62,7 @@ Super Sam Adventures is a WIP jump'n'run game by BuckarooBanzai that seems to pr
 
 ElCeejo has released a trio of updates to his animal mods, as well as a new mob api to base them on. 
 
-![The Monster Invades](/img/the_monster_invades.png?raw=true "The Monster InvadesBlob")
+![The Monster Invades](/_posts/img/the_monster_invades.png?raw=true "The Monster InvadesBlob")
 
 Draconis improves the gameplay of multiple Minetest games, like Minetest Game, Voxelgarden, and MineClone. It gives more incentive to traverse your worlds' mountains and caves, and provides engaging mini-boss fights. After defeating a Dragon, you may find an Egg. The mysterious Egg-hatching process can be puzzling, but it rewards you with a new, destructive companion with which you can take to the skies when its old enough, and it unlocks a new tier of weaponry and armor. The Libri Draconis book can help you discover elements of the mod by unlocking certain objectives with the book in your inventory.
 
@@ -80,16 +79,16 @@ lw_components seems to be a real contender to other mesecons-compatible automati
 OgelGames has released a mod that adds a wearable headlamp on Content Database (CDB).
 
 Zughy is back at modding again! He recently updated Arena_lib, adding the ability to control the sky to minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
-![Pink Sky](/img/pink_sky.png?raw=true "Pink Sky")
+![Pink Sky](/_posts/img/pink_sky.png?raw=true "Pink Sky")
 
 Apercy is back at it again, making more great vehicle mods. This time its cars. These cars are two-seaters. They have working headlights. They have wheels and steering wheels that turn. They run on fuel. They detect elevation and tilt to match the elevation under them. Best of all, they are low-lag and extremely playable. The latest addition to the fleet is the coupe below:
-![Apercy's Coupe](/img/apercycars.png?raw=true "Apercy's Coupe")
+![Apercy's Coupe](/_posts/img/apercycars.png?raw=true "Apercy's Coupe")
 
 ## Art and Builds <a name="art"></a>
 ------------------------------------------------
 
 
-![An Essay in Dwarf-Sculpture](/img/essay_in_dwarf.png?raw=true "An Essay in Dwarf-Sculpture")
+![An Essay in Dwarf-Sculpture](/_posts/img/essay_in_dwarf.png?raw=true "An Essay in Dwarf-Sculpture")
 
 The Dwarves of the YourLand server show off stonework: "An Essay in Dwarf-Sculpture", built by debian44.
 
@@ -97,12 +96,6 @@ temhotaokeaha has been making cool banners for games:
 ![Blockbomber Banner](https://content.minetest.net/thumbnails/2/09924ef1ef.png?raw=true "Blockbomber Banner")
 ![FarLands Reloaded Banner](https://content.minetest.net/thumbnails/2/cb60513e6c.png "FarLands Reloaded Banner")
 
-## Server Spotlight <a name="s-spotlight"></a>
-------------------------------------------------
-
-
-If there is a server that wants to be advertised here, A paragraph and screenshots.
-One server per article
 
 ## Server News <a name="s-news"></a>
 ------------------------------------------------
