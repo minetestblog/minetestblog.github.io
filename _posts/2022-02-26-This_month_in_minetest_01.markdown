@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Month in Minetest"
+title:  "This Month in Minetest 01"
 description: >
   A new minetest version and new content
 hero: /assets/img/pig.png
