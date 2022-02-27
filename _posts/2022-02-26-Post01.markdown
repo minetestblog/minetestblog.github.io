@@ -37,8 +37,6 @@ As always, you can check out [the full changelog](https://dev.minetest.net/Chang
 
 
 ## Game News <a name="games"></a>
-![A New Place](/assets/img/a_new_place.png?raw=true "A New Place")
-![The Royal Blob](/assets/img/the_royal_blog.png?raw=true "The Royal Blob")
 
 Talas has just released version 1.2 of Colour Hop! 
 This includes some fundamental changes to the game, giving each player colour an activated ability.
@@ -47,10 +45,12 @@ There are some new advanced buildings that players can build, most are unrelated
 As usual, things are hidden and finding the new boss will take much exploration.
 The game is still a work-in-progress, but it's getting closer to a complete game.
 
-![SuperSam](https://content.minetest.net/uploads/38591f9f94.png "Super Sam Adventures")
+![A New Place](/assets/img/a_new_place.png?raw=true "A New Place")
+![The Royal Blob](/assets/img/the_royal_blog.png?raw=true "The Royal Blob")
 
 Super Sam Adventures is a WIP jump'n'run game by BuckarooBanzai that seems to promise fun platforming for minetest. While it is obviously in early stages of development, it is already  playable, and even slightly engaging, with secret areas, moving platforms, and several levels.
 
+![SuperSam](https://content.minetest.net/uploads/38591f9f94.png "Super Sam Adventures")
 
 ## Mod News <a name="mods"></a>
 ElCeejo has released a trio of updates to his animal mods, as well as a new mob api to base them on. 
@@ -85,7 +85,6 @@ Apercy is back at it, making more great vehicle mods. This time its cars. These 
 ![Apercy's Coupe](/assets/img/apercycars.png?raw=true "Apercy's Coupe")
 
 ## Art and Builds <a name="art"></a>
-------------------------------------------------
 
 
 ![An Essay in Dwarf-Sculpture](/assets/img/essay_in_dwarf.png?raw=true "An Essay in Dwarf-Sculpture")
@@ -98,14 +97,11 @@ temhotaokeaha has been making cool banners for games:
 
 
 ## Server News <a name="s-news"></a>
-------------------------------------------------
-
 YourLand is preparing chat integration with discord. A nice side effect is a WIP [matterbridge mod](https://gitea.your-land.de/AliasAlreadyTaken/yl_matterbridge) that will allow bridging server chat to any of discord, irc, matrix, and much more, all at once.
 
 runs' server is back online; this time running the development version of his new game "The Samz". Its limited to 3 players currently.
 
 ## In Other News <a name="s-news"></a>
-------------------------------------------------
 This is the first post of our blog, y'all! We are actively looking for content submission for the next post, which will be in about a month, maybe sooner. Let us know what you are doing! If you are working on something great for Minetest in any of the following categories, please follow the easy instructions in the About page to submit content or contact MisterE on discord, matrix, or the forums to submit content without the hassle of the issue tracker (please use the issue tracker if you can, though!)
 
 Categories:
@@ -120,6 +116,7 @@ Categories:
 The "In Other News" is the place for basically anything else minetest related, so theres a place for everything here. Submissions must meet the submission guidelines on the About page, and are subject to editor review and revision.
 
 
-
+Thanks to our post contributors this month: 
+Rubenwardy, Talas, ElCeejo, Bastrubun, ExeVirus, Oakenshield, MisterE, 
 
 
