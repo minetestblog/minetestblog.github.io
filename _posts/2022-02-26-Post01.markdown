@@ -19,11 +19,9 @@ published: true
 
 
 ## Briefing <a name="overview"></a>
-------------------------------------------------
 Minetest 5.5 was released last month, with some significant improvements. Colour Hop has received some major updates. Creatura has joined minetest's collection of performant mob apis.
 
 ## Engine News <a name="engine"></a>
-------------------------------------------------
 <sup>Written by MisterE and Rubenwardy</sup>
 
 Minetest 5.5.0 has been released! 
@@ -40,8 +38,6 @@ As always, you can check out [the full changelog](https://dev.minetest.net/Chang
 
 
 ## Game News <a name="games"></a>
-------------------------------------------------
-
 ![A New Place](/assets/img/a_new_place.png?raw=true "A New Place")
 ![The Royal Blob](/assets/img/the_royal_blog.png?raw=true "The Royal Blob")
 
@@ -58,8 +54,6 @@ Super Sam Adventures is a WIP jump'n'run game by BuckarooBanzai that seems to pr
 
 
 ## Mod News <a name="mods"></a>
-------------------------------------------------
-
 ElCeejo has released a trio of updates to his animal mods, as well as a new mob api to base them on. 
 
 ![The Monster Invades](/assets/img/the_monster_invades.png?raw=true "The Monster InvadesBlob")
@@ -71,17 +65,24 @@ Animalia adds life and depth to experiences with livestock, pets, and ambient cr
 
 Creatura makes creating a new mob relatively easy, while not cutting corners on features. You can take advantage of the Utility Stack system for smooth decision making, enchance behaviors using Theta* Pathfinding for lifelike paths, and even use the implemented boids algorithm for realistic flocks and swarms. 
 
+--------------------------------------
 
 Loosewheel has been updating lw_components with more mesecons devices. The latest additions were digilines-controlled storage, and a security camera that can actually take "photos"- rough representations of the scene in front of it that remind you of early maze graphics. One of the most exciting recent additions is a force field generator:
 ![Force Field](https://i.ibb.co/sbRcL9v/force-field-demo.png?raw=true "Force Field")
 lw_components seems to be a real contender to other mesecons-compatible automation mods, and without the high entity-count, it may be a lower lag option. 
 
+--------------------------------------
+
 OgelGames has released a mod that adds a wearable headlamp on Content Database (CDB).
 
-Zughy is back at modding again! He recently updated Arena_lib, adding the ability to control the sky to minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
+--------------------------------------
+
+Zughy is modding again! He recently updated Arena_lib, adding the ability to control the sky to minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
 ![Pink Sky](/assets/img/pink_sky.png?raw=true "Pink Sky")
 
-Apercy is back at it again, making more great vehicle mods. This time its cars. These cars are two-seaters. They have working headlights. They have wheels and steering wheels that turn. They run on fuel. They detect elevation and tilt to match the elevation under them. Best of all, they are low-lag and extremely playable. The latest addition to the fleet is the coupe below:
+--------------------------------------
+
+Apercy is back at it, making more great vehicle mods. This time its cars. These cars are two-seaters. They have working headlights. They have wheels and steering wheels that turn. They run on fuel. They detect elevation and tilt to match the elevation under them. Best of all, they are low-lag and extremely playable. The latest addition to the fleet is the coupe below:
 ![Apercy's Coupe](/assets/img/apercycars.png?raw=true "Apercy's Coupe")
 
 ## Art and Builds <a name="art"></a>
@@ -99,6 +100,8 @@ temhotaokeaha has been making cool banners for games:
 
 ## Server News <a name="s-news"></a>
 ------------------------------------------------
+
+YourLand is preparing chat integration with discord. A nice side effect is a WIP [matterbridge mod](https://gitea.your-land.de/AliasAlreadyTaken/yl_matterbridge) that will allow bridging server chat to any of discord, irc, matrix, and much more, all at once.
 
 runs' server is back online; this time running the development version of his new game "The Samz". Its limited to 3 players currently.
 
