@@ -24,7 +24,7 @@ The workflow is as follows:
   * as issues are submitted on the [github issue tracker] (https://github.com/minetestblog/minetestblog.github.io/issues) and on the mirrored [gitlab issue tracker] (https://gitlab.com/mistere123.coding/minetestblog.github.io/-/issues), Review the content provided in the issue and determine if it meets the [standards] (https://minetestblog.github.io/about/)
 
   * if it does, add it to the staging post. Organize the staging post by post type (headings are already given in the template). Include screenshots if they fit, and put a caption under them. We should only select 1 or 2 "Best of minetest" screenshots, and put them at the end of the post.
-  * place images in the /_posts/img folder
+  * place images in the `/assets/img` folder
 
   * close the issue as the content is added.
 

@@ -4,8 +4,8 @@ title:  "This Month in Minetest 01"
 description: >
   A new minetest version and new content
 hero: /assets/img/pig.png
+overlay: White
 published: true
----
 ---
 # Table of contents
 *  [Briefing](#overview)
@@ -37,7 +37,7 @@ As always, you can check out [the full changelog](https://dev.minetest.net/Chang
 
 ## Game News <a name="games"></a>
 
-Talas has just released version 1.2 of Colour Hop! 
+[talas](https://content.minetest.net/users/talas/) has just released version 1.2 of Colour Hop! 
 This includes some fundamental changes to the game, giving each player colour an activated ability.
 The story (or lack of) has been expanded upon and a completely new boss was added.
 There are some new advanced buildings that players can build, most are unrelated to the dragons.
@@ -47,7 +47,7 @@ The game is still a work-in-progress, but it's getting closer to a complete game
 ![A New Place](/assets/img/a_new_place.png?raw=true "A New Place")
 ![The Royal Blob](/assets/img/the_royal_blob.png?raw=true "The Royal Blob")
 
-Super Sam Adventures is a WIP jump'n'run game by [BuckarooBanzai](https://content.minetest.net/users/BuckarooBanzay/) that promises fun platforming for minetest. While it is obviously in early stages of development, it is already  playable, and even slightly engaging, with secret areas, moving platforms, and several levels.
+[Super Sam Adventures](https://content.minetest.net/packages/BuckarooBanzay/super_sam/) is a WIP jump'n'run game by [BuckarooBanzai](https://content.minetest.net/users/BuckarooBanzay/) that promises fun platforming for minetest. While it is obviously in early stages of development, it is already  playable, and even slightly engaging, with secret areas, moving platforms, and several levels.
 
 ![SuperSam](https://content.minetest.net/uploads/38591f9f94.png "Super Sam Adventures")
 
@@ -75,7 +75,7 @@ lw_components seems to be a real contender to other mesecons-compatible automati
 
 --------------------------------------
 
-[Zughy](https://content.minetest.net/users/Zughy/) is modding again! He recently updated Arena_lib, adding the ability to control the sky to minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
+[Zughy](https://content.minetest.net/users/Zughy/) is modding again! He recently updated Arena_lib, adding the ability to control the sky of minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
 ![Pink Sky](/assets/img/pink_sky.png?raw=true "Pink Sky")
 
 --------------------------------------
@@ -98,10 +98,10 @@ temhotaokeaha has been making cool banners for games:
 ## Server News <a name="s-news"></a>
 YourLand is preparing chat integration with discord. A nice side effect is a WIP [matterbridge mod](https://gitea.your-land.de/AliasAlreadyTaken/yl_matterbridge) that will allow bridging server chat to any of discord, irc, matrix, and much more, all at once.
 
-runs' server is back online; this time running the development version of his new game "The Samz". Its limited to 3 players currently.
+[runs](https://content.minetest.net/users/runs/)' server is back online; this time running the development version of his new game "The Samz". Its limited to 3 players currently.
 
 ## In Other News <a name="s-news"></a>
-This is the first post of our blog, y'all! We are actively looking for content submission for the next post, which will be in about a month, maybe sooner. Let us know what you are doing! If you are working on something great for Minetest in any of the following categories, please follow the easy instructions in the About page to submit content or contact MisterE on discord, matrix, or the forums to submit content without the hassle of the issue tracker (please use the issue tracker if you can, though!)
+This is the first post of our blog, y'all! We are actively looking for content submission for the next post, which will be in about a month, maybe sooner. Let us know what you are doing! If you are working on something great for Minetest in any of the following categories, please follow the easy instructions in the [About](https://minetestblog.github.io/about/) page to submit content or contact MisterE on discord, matrix, or the forums to submit content without the hassle of the issue tracker (please use the issue tracker if you can, though!)
 
 Categories:
 * Engine
@@ -112,10 +112,10 @@ Categories:
 * Server News
 * In Other News
 
-The "In Other News" is the place for basically anything else minetest related, so theres a place for everything here. Submissions must meet the submission guidelines on the About page, and are subject to editor review and revision.
+The "In Other News" is the place for basically anything else minetest related, so theres a place for everything here. Submissions must meet the submission guidelines on the [About](https://minetestblog.github.io/about/) page, and are subject to editor review and revision.
 
 
 Thanks to our post contributors this month: 
-Rubenwardy, Talas, ElCeejo, Bastrubun, ExeVirus, Oakenshield, MisterE, 
+Rubenwardy, Talas, ElCeejo, Bastrubun, ExeVirus, Oakenshield, MisterE, Apercy
 
 
