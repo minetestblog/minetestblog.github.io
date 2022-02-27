@@ -69,7 +69,7 @@ The game is still a work-in-progress, but it's getting closer to a complete game
 lw_components seems to be a real contender to other mesecons-compatible automation mods, and without the high entity-count, it may be a lower lag option. 
 
 --------------------------------------
-[OgelGames](https://content.minetest.net/users/OgelGames/) has released a mod that adds a wearable headlamp on Content Database (CDB).
+[OgelGames](https://content.minetest.net/users/OgelGames/) has released a mod that adds a wearable headlamp.
 
 --------------------------------------
 [Zughy](https://content.minetest.net/users/Zughy/) is modding again! He recently updated Arena_lib, adding the ability to control the sky of minigames made with the library. It allows you to tweak clouds, sky colors, skybox backgrounds, and more!
