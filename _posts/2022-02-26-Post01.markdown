@@ -94,9 +94,6 @@ The Dwarves of the YourLand server show off stonework: "An Essay in Dwarf-Sculpt
 ## Server News <a name="s-news"></a>
 YourLand is preparing chat integration with discord. A nice side effect is a WIP [matterbridge mod](https://gitea.your-land.de/AliasAlreadyTaken/yl_matterbridge) that will allow bridging server chat to any of discord, irc, matrix, and much more, all at once.
 
---------------------------------------
-[runs](https://content.minetest.net/users/runs/)' server is back online; this time running the development version of his new game "The Samz". Its limited to 3 players currently.
-
 ## In Other News <a name="s-news"></a>
 This is the first post of our blog, y'all! We are actively looking for content submission for the next post, which will be in about a month, maybe sooner. Let us know what you are doing! If you are working on something great for Minetest in any of the following categories, please follow the easy instructions in the [About](https://minetestblog.github.io/about/) page to submit content or contact MisterE on discord, matrix, or the forums to submit content without the hassle of the issue tracker (please use the issue tracker if you can, though!)
 
