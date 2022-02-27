@@ -18,7 +18,7 @@ published: true
 
 
 ## Briefing <a name="overview"></a>
-Minetest 5.5 was released last month, with some significant improvements. Colour Hop has received some major updates. Creatura has joined minetest's collection of performant mob apis.
+Minetest 5.5 was released last month, with some significant improvements. Colour Hop has received some major updates. Several mods received updates this month, and they look fun.
 
 ## Engine News <a name="engine"></a>
 
