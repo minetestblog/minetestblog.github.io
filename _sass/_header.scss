@@ -71,6 +71,9 @@ header {
         }
   	  }
   }
+  li a img {
+    filter: var(--invert-social-logo);
+  }
 }
 
 @media (max-width: 48rem) {
