@@ -40,6 +40,8 @@ The [mapgen](https://github.com/Jordach/minetest/tree/mg_reverb) is WIP, and wil
 
 Another area that we can all agree needs improvement is minetest's main menu. Zughy and Giova are working on a detailed design for the menu. While they are not actually implementing it (just doing the planning and asset work), there are rumors that someone else is working on actual implementation. Stay tuned, this could go somewhere nice.
 
+
+
 Paradust is trying to port minetest to run in a browser. The demo works, though there are many bugs. Try seed 2222.
 https://minetest.dustlabs.io/
 
@@ -47,6 +49,7 @@ https://minetest.dustlabs.io/
 ![Minetest in Browser](/assets/img/minetest_in_browser.png?raw=true "Minetest in Browser")
 
 Minetest 5.6 development is underway. After re-enabling dynamic shadows x2048 has been improving the api. Shadows are now [rendered on entities](https://github.com/minetest/minetest/pull/11747), and and [api has been added](https://github.com/minetest/minetest/pull/11944) to allow games to control shadow intensity.
+
 
 
 ## Game News <a name="games"></a>
@@ -66,7 +69,7 @@ Mantar is preparing for an Exile release which will add a dye system.
 
 Apercy has made an official release of his [Ju52 airplane](https://content.minetest.net/packages/apercy/ju52/). Also, many of his vehicles now have inventories.
 
-![Ju52](/assets/img/ju52.png?raw=true "Ju52"). 
+![Ju52](/assets/img/ju52.png?raw=true "Ju52")
 
 
 Elceejo is experimenting with new ways to use his Creatura Api. The latest product is Spiradilus, a new Boss. It is heavily based on [SCP-682](https://scp-wiki.wikidot.com/scp-682). You can expect a public release in early April.
@@ -76,7 +79,10 @@ Elceejo is experimenting with new ways to use his Creatura Api. The latest produ
 Wsor has been quietly working on mods in the [mt-mods](https://github.com/mt-mods) repo, making them game-agnostic. A few recently changes are unified_dyes, basic_materials, steel, and pipeworks. That means that other mods that only depend on those can now also be game agnostic.
 
 
+BuckarooBanzai has developed a mod and server software called BlockExchange. It allows you to share and use your builds (shematics) across different worlds, like thingiverse for minetest builds.
+You can browse available builds [here](https://blockexchange.minetest.land/), and with the mod installed on singleplayer or on a server, you can download and place builds, or upload new builds.
 
+![Block Exchange](/assets/img/blockexchange.png?raw=true "Block Exchange")
 
 ## Art and Builds <a name="art"></a>
 
@@ -105,5 +111,4 @@ Small news blips for servers in general. Great for announcing new servers, serve
 
 ## In Other News <a name="s-news"></a>
 
-
-Anything else that is news-worthy but doesnt fit in the other categories.
+The Minetest blog is going to be made official! Plans are being worked on to move the blog repository to the Minetest github account and possibly embed the latest posts on the Minetest Website. Stay tuned for changes.
