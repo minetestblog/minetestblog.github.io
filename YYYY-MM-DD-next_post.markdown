@@ -39,7 +39,7 @@ Another area that we can agree needs improvement is Minetest's main menu. [Zughy
 
 ![Menu](/assets/img/menu_concept.png?raw=true "Menu")
 
-Concept art for the main menu redesign singleplayer new-game interface.
+*Concept art for the main menu redesign singleplayer new-game interface.*
 
 
 Paradust is trying to port minetest to run in a browser. The demo is playable (YMMV), though there are many bugs. Try seed 2222.
@@ -91,16 +91,17 @@ You can browse available builds [here](https://blockexchange.minetest.land/), an
 
 ![Atlas](/assets/img/atlas.png?raw=true "Atlas")
 
-Atlas by [GreenXenith](https://content.minetest.net/users/GreenXenith/)
+*Atlas by [GreenXenith](https://content.minetest.net/users/GreenXenith/)*
 
 ![AI Map](/assets/img/ai_map.png?raw=true "AI Map")
 
-[Lemente](https://content.minetest.net/users/Lemente/) made this with imaging and an AI-generated picture
+*[Lemente](https://content.minetest.net/users/Lemente/) made this with imaging and an AI-generated picture*
 
 
 ![MSS_Faraday](/assets/img/MSS_Faraday.png?raw=true "MSS_Faraday")
 
-"MSS Faraday: Boldly going above Y = 20000", by [BuckarooBanzai](https://content.minetest.net/users/BuckarooBanzay/)
+*"MSS Faraday: Boldly going above Y = 20000", by [BuckarooBanzai](https://content.minetest.net/users/BuckarooBanzay/)*
+
 You can get the schematic [here](https://blockexchange.minetest.land/api/static/schema/BuckarooBanzai/mss_faraday).
 
 ## In Other News <a name="s-news"></a>
