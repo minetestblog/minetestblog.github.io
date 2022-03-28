@@ -30,7 +30,7 @@ Where is minetest lacking? You might be able to think of a few areas, but a big 
 
 Jordach is making a more realistic C++ mapgen. Imagine: Deep, wide oceans span the map, making it possible to get lost at sea. Small islands dot the expanse. Oceanic trenches yawn in the depths below. Sheer cliff faces poke out of the sea, marking the boundary, while long beaches snake around the remaining coastline. On the continents, crags kilometers high scrape the clouds, and the wide, low-lying plains are lightly crinkled by rolling hills, providing excellent building space. 
 
-In order to accomplish this, he made a model of the entire map in blender, using the sampled noise sources encoded into pngs. He was then able to mix the noise sources in blender, designing them to produce the large-scale landscape in real-time. The mixing code was translated from blender to lua, and from lua to C++.
+In order to accomplish this, he made a model of the entire map in blender, using the sampled noise sources encoded into images. He was then able to mix the noise sources in blender, designing them to produce the large-scale landscape in real-time. The mixing code was translated from blender to lua, and from lua to C++.
 
 The [mapgen](https://github.com/Jordach/minetest/tree/mg_reverb) is WIP, and will continue development until its ready for an engine PR. 
 
@@ -73,6 +73,8 @@ Apercy has made an official release of his [Ju52 airplane](https://content.minet
 
 
 Elceejo is experimenting with new ways to use his Creatura Api. The latest product is Spiradilus, a new Boss. It is heavily based on [SCP-682](https://scp-wiki.wikidot.com/scp-682). You can expect a public release in early April.
+
+
 <iframe width="853" height="480" src="https://www.youtube.com/embed/fkrxO_gAJGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -87,13 +89,16 @@ You can browse available builds [here](https://blockexchange.minetest.land/), an
 ## Art and Builds <a name="art"></a>
 
 ![Atlas](/assets/img/atlas.png?raw=true "Atlas")
+
 Atlas by GreenXenith
 
 ![AI Map](/assets/img/ai_map.png?raw=true "AI Map")
+
 Lemente made this with imaging and an AI-generated picture
 
 
 ![MSS_Faraday](/assets/img/MSS_Faraday.png?raw=true "MSS_Faraday")
+
 "MSS Faraday: Boldly going above Y = 20000", by BuckarooBanzai
 You can get the schematic [here](https://blockexchange.minetest.land/api/static/schema/BuckarooBanzai/mss_faraday).
 
