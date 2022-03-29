@@ -53,3 +53,8 @@
 {% if site.blog.inline_footnotes == true %}
 <link rel="stylesheet" href="{{ "assets/css/bf.css" | relative_url }}">
 {% endif %}
+
+{% if site.author.rss == true %}
+<!-- RSS feed -->
+<link type="application/rss+xml" rel="alternate" href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ site.blog.title | xml_escape }}" />
+{% endif %}
