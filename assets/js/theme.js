@@ -21,6 +21,7 @@ const LightTheme = {
   '--table-header-color': '#fefefe',
   '--shadow-color': 'rgba(0, 0, 0, 0.1)',
   '--invert-logo-color': 'invert(0)',
+  '--invert-social-logo': 'invert(0%) sepia(100%) saturate(0%) hue-rotate(13deg) brightness(95%) contrast(105%)',
   themeName: 'LightTheme'
 }
 
@@ -37,6 +38,7 @@ const NightTheme = {
   '--table-header-color': '#505050',
   '--shadow-color': 'rgba(255, 255, 255, 0.1)',
   '--invert-logo-color': 'invert(0)',
+  '--invert-social-logo': 'invert(84%) sepia(99%) saturate(45%) hue-rotate(227deg) brightness(118%) contrast(89%)',
   themeName: 'NightTheme'
 }
 
