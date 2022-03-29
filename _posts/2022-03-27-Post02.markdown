@@ -42,8 +42,8 @@ Another area that we can agree needs improvement is Minetest's main menu. [Zughy
 *Concept art for the main menu redesign singleplayer new-game interface.*
 
 
-Paradust is trying to port minetest to run in a browser. The demo is playable (YMMV), though there are many bugs. Try seed 2222.
-https://minetest.dustlabs.io/
+Paradust is trying to port minetest to run in a browser. The demo is playable (YMMV), though there are many bugs. Try seed 2222. <a href="https://minetest.dustlabs.io/"> Try it online here </a>
+
 
 ![Minetest in Browser](/assets/img/minetest_in_browser.png?raw=true "Minetest in Browser")
 
